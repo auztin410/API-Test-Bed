@@ -1,0 +1,30 @@
+{
+  "name": "api-test-bed",
+  "version": "1.0.0",
+  "description": "Just a test bed for quickly testing out new API's",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auztin410/API-Test-Bed.git"
+  },
+  "keywords": [
+    "test",
+    "apis",
+    "node.js"
+  ],
+  "author": "Austin Saflarske",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auztin410/API-Test-Bed/issues"
+  },
+  "homepage": "https://github.com/auztin410/API-Test-Bed#readme"
+}
